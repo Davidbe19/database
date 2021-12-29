@@ -13,7 +13,7 @@
 		{
 			"_id": "1",
 			"name":"David",
-		 	"email":"d@mail.fr",
+		 	"email":"d@mail.com",
 			"password":"secret",
 			"type":"student",
 		 	"avatar":"//www.gravatar.com/avatar/defbd16eddc2fdb672037b935a38a88b?s=200&r=pg&d=mm",
@@ -23,7 +23,7 @@
 		{
 			"_id": "2",
 			"name":"Gila",
-		 	"email":"g@mail.fr",
+		 	"email":"g@mail.com",
 			"password":"secret",
 			"type":"student",
 		 	"avatar":"//www.gravatar.com/avatar/defbd16eddc2fdb672037b935a38a88b?s=200&r=pg&d=mm",
@@ -43,7 +43,7 @@
 		{
 			"_id": "4",
 			"name":"Dave",
-		 	"email":"d@mail.fr",
+		 	"email":"d@mail.com",
 			"password":"secret",
 			"type":"teacher",
 		 	"avatar":"//www.gravatar.com/avatar/defbd16eddc2fdb672037b935a38a88b?s=200&r=pg&d=mm",
@@ -53,7 +53,7 @@
 		{
 			"_id": "5",
 			"name":"Gil",
-		 	"email":"g@mail.fr",
+		 	"email":"g@mail.com",
 			"password":"secret",
 			"type":"teacher",
 		 	"avatar":"//www.gravatar.com/avatar/defbd16eddc2fdb672037b935a38a88b?s=200&r=pg&d=mm",
