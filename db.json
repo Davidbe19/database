@@ -1,6 +1,16 @@
 {
 	"users": [
 		{
+			"_id": "3",
+			"name":"Sam",
+		 	"email":"sam@mail.com",
+			"password":"secret",
+			"type":"teacher",
+		 	"avatar":"//www.gravatar.com/avatar/defbd16eddc2fdb672037b935a38a88b?s=200&r=pg&d=mm",
+		 	"date":{"$date":{"$numberLong":"1633459345976"}},
+		 	"__v":{"$numberInt":"0"}
+		},
+		{
 			"_id": "0",
 			"name":"Michael",
 		 	"email":"m@mail.com",
@@ -26,16 +36,6 @@
 		 	"email":"g@mail.com",
 			"password":"secret",
 			"type":"student",
-		 	"avatar":"//www.gravatar.com/avatar/defbd16eddc2fdb672037b935a38a88b?s=200&r=pg&d=mm",
-		 	"date":{"$date":{"$numberLong":"1633459345976"}},
-		 	"__v":{"$numberInt":"0"}
-		},
-		{
-			"_id": "3",
-			"name":"Sam",
-		 	"email":"sam@mail.com",
-			"password":"secret",
-			"type":"teacher",
 		 	"avatar":"//www.gravatar.com/avatar/defbd16eddc2fdb672037b935a38a88b?s=200&r=pg&d=mm",
 		 	"date":{"$date":{"$numberLong":"1633459345976"}},
 		 	"__v":{"$numberInt":"0"}
