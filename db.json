@@ -1,5 +1,34 @@
 {
-	"users": [
+	"students": [
+		{
+			"_id": "0",
+			"name":"Michael",
+		 	"email":"m@mail.com",
+			"password":"secret",
+		 	"avatar":"//www.gravatar.com/avatar/defbd16eddc2fdb672037b935a38a88b?s=200&r=pg&d=mm",
+		 	"date":{"$date":{"$numberLong":"1633459345976"}},
+		 	"__v":{"$numberInt":"0"}
+		},
+		{
+			"_id": "1",
+			"name":"David",
+		 	"email":"d@mail.fr",
+			"password":"secret",
+		 	"avatar":"//www.gravatar.com/avatar/defbd16eddc2fdb672037b935a38a88b?s=200&r=pg&d=mm",
+		 	"date":{"$date":{"$numberLong":"1633459345976"}},
+		 	"__v":{"$numberInt":"0"}
+		},
+		{
+			"_id": "2",
+			"name":"Gila",
+		 	"email":"g@mail.fr",
+			"password":"secret",
+		 	"avatar":"//www.gravatar.com/avatar/defbd16eddc2fdb672037b935a38a88b?s=200&r=pg&d=mm",
+		 	"date":{"$date":{"$numberLong":"1633459345976"}},
+		 	"__v":{"$numberInt":"0"}
+		}
+	],
+	"teachers": [
 		{
 			"_id": "0",
 			"name":"Michael",
