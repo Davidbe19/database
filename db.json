@@ -31,7 +31,7 @@
 	"teachers": [
 		{
 			"_id": "0",
-			"name":"Michael",
+			"name":"Sam",
 		 	"email":"m@mail.com",
 			"password":"secret",
 		 	"avatar":"//www.gravatar.com/avatar/defbd16eddc2fdb672037b935a38a88b?s=200&r=pg&d=mm",
@@ -40,7 +40,7 @@
 		},
 		{
 			"_id": "1",
-			"name":"David",
+			"name":"Dave",
 		 	"email":"d@mail.fr",
 			"password":"secret",
 		 	"avatar":"//www.gravatar.com/avatar/defbd16eddc2fdb672037b935a38a88b?s=200&r=pg&d=mm",
@@ -49,7 +49,7 @@
 		},
 		{
 			"_id": "2",
-			"name":"Gila",
+			"name":"Gil",
 		 	"email":"g@mail.fr",
 			"password":"secret",
 		 	"avatar":"//www.gravatar.com/avatar/defbd16eddc2fdb672037b935a38a88b?s=200&r=pg&d=mm",
