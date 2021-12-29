@@ -1,0 +1,6 @@
+{
+	"users": [
+		{"_id":{"$oid":"615c9c91b05c4c3ea415489b"},"name":"Maz","email":"a@mail.fr","password":"secret","avatar":"//www.gravatar.com/avatar/defbd16eddc2fdb672037b935a38a88b?s=200&r=pg&d=mm","date":{"$date":{"$numberLong":"1633459345976"}},"__v":{"$numberInt":"0"}}
+	
+	]
+}
