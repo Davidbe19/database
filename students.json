@@ -15,6 +15,7 @@
 			"name":"David",
 		 	"email":"d@mail.com",
 			"password":"secret",
+			"grade1:"0",
 		 	"avatar":"//www.gravatar.com/avatar/defbd16eddc2fdb672037b935a38a88b?s=200&r=pg&d=mm",
 		 	"date":{"$date":{"$numberLong":"1633459345976"}},
 		 	"__v":{"$numberInt":"0"}
@@ -24,6 +25,7 @@
 			"name":"Gila",
 		 	"email":"g@mail.com",
 			"password":"secret",
+			"grade1:"0",
 		 	"avatar":"//www.gravatar.com/avatar/defbd16eddc2fdb672037b935a38a88b?s=200&r=pg&d=mm",
 		 	"date":{"$date":{"$numberLong":"1633459345976"}},
 		 	"__v":{"$numberInt":"0"}
